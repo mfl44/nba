@@ -19,7 +19,7 @@
 
 6) Minutes Played by Season: Total number of minutes played during season
 
-##Instructions for Use
+## Instructions for Use
 
 - Players can be selected from the check filter on the bottom-right of the dashboard
 
